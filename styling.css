@@ -1,0 +1,16 @@
+/*Styl sheet for image box display*/
+.pix_box{
+	width:25%;height:30%;border:solid lightgray 1px;padding:1em;margin:0.4em;float:left;
+	}
+
+
+.pix_box .pix_self{
+	width:95%;height:auto;border:solid lightgray 1px;padding:0em;margin:0.4em;
+	}
+	
+
+
+
+
+
+
